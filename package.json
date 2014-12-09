@@ -1,0 +1,8 @@
+{
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kaspereden/workflow-example.git"
+	},
+	"devDependencies": {
+	}
+}
